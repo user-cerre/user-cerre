@@ -11,9 +11,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=user-cerre&theme=dracula&column=7" alt="user-cerre" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [UEX Escuela Politécnica ](https://epcc.unex.es))
+- 📚 I am currently studying at [UC Universidade de Coimbra](https://uc.pt))
 
-- 🌱 I am currently in the race **Ingeniería Informática en Ingeniería de los Computadores**
+- 🌱 I am currently in the degree **Licenciatura en Enghenaria Informatica**
 
 - 📫 How to reach me **cparedeskw@alumnos.unex.es**
 
